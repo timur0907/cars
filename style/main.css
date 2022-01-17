@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "PTSans";
+    src: url(../fonts/PT_Sans/PTSans-Bold.woff);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: "PTSans";
+    src: url(../fonts/PT_Sans/PTSans-Italic.woff);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: "PTSans";
+    src: url(../fonts/PT_Sans/PTSans-Regular.woff);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato/Lato-Regular.woff);
+    font-weight: 400
+}
